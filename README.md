@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris</h1>
+<h1 align="center">Hey It's Chris</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrishes&label=Profile%20views&color=0e75b6&style=flat" alt="chrishes" /> </p>
 
 <h3 align="left">Connect with me:</h3>
