@@ -37,3 +37,8 @@
 <p align="left">Full stack Roblox Developer creating immersive and fun experiences.<br><br>Currently a student at the University of Huddersfield. <br>Studying to create experiences utilising the latest tech <br>and tools in the industry.🎓<br><br>Game enjoyer of many genres. ⌨️</p>
 
 ###
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://christianbelfielddev.co.uk/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-belfield-46a462241/)
