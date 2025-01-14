@@ -37,12 +37,3 @@
 <p align="left">Full stack Roblox Developer creating immersive and fun experiences.<br><br>Currently a student at the University of Huddersfield. <br>Studying to create experiences utilising the latest tech <br>and tools in the industry.🎓<br><br>Game enjoyer of many genres. ⌨️</p>
 
 ###
-
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
