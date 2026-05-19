@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Full stack Roblox Developer creating immersive and fun experiences.<br><br>Currently a student at the University of Huddersfield. <br>Studying to create experiences utilising the latest tech <br>and tools in the industry.🎓<br><br>Game enjoyer of many genres. ⌨️</p>
+<p align="left">Full stack Developer<br><br>Currently a student at the University of Huddersfield. <br>Studying to create experiences utilising the latest tech <br>and tools in the industry.<br><br>Game enjoyer of many genres.</p>
 
 ###
 
